@@ -1,0 +1,17 @@
+# Dependencias
+node_modules/
+
+# Sesiones y datos
+alastor_sessions/
+alastor_sub_sessions/
+tmp/
+database.json
+sticker_meta.json
+debug.log
+
+# Entorno
+.env
+
+# Sistema
+.DS_Store
+*.log
